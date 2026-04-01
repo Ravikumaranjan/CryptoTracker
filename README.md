@@ -36,4 +36,4 @@ This app relies on the free tier of the [CoinGecko API](https://www.coingecko.co
 
 ## Developer
 
-Developed by [Your Name] - Available for iOS Intern Roles.
+Developed by [Ravi kr Ranjan] - Available for iOS Intern Roles.
